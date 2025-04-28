@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 
 @import "./Global/global.css";
 
@@ -15,6 +16,8 @@
 /* Home */
 @import "./Home/introducao.css";
 @import "./Home/tecnologia.css";
+@import "./Home/parceiros.css";
+@import "./Home/depoimento.css";
 
 /* Bicicletas */
 @import "bicicletas/bicicletas-lista.css"
